@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "github",
+    "repository": "devstark15/device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido",
+    "revision": "pa"
+  },
+  {
+    "remote": "github",
+    "repository": "devstark15/kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision": "UltraDevs-old"
+  },
+  {
+    "remote": "github",
+    "repository": "devstark15/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "oreo-mr1"
+  },
+  {
+    "remote": "github",
+    "repository": "CypherOS/hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio/msm8996",
+    "revision": "parfait-release-8996"
+  },
+  {
+    "remote": "github",
+    "repository": "CypherOS/hardware_qcom_display",
+    "target_path": "hardware/qcom/display/msm8996",
+    "revision": "parfait-release-8996"
+  },
+  {
+    "remote": "github",
+    "repository": "CypherOS/hardware_qcom_media",
+    "target_path": "hardware/qcom/media/msm8996",
+    "revision": "parfait-release-8996"
+  },
+  {
+    "remote": "github",
+    "repository": "CypherOS/packages_apps_FMRadio",
+    "target_path": "packages/apps/FMRadio",
+    "revision":  "parfait-release"
+  }
+]
